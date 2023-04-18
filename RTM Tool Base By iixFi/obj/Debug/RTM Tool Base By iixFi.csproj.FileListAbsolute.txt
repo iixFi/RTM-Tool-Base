@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM Tool Base By iixFi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM_Tool_Base_By_iixFi.Form1.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM_Tool_Base_By_iixFi.Properties.Resources.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM_Tool_Base_By_iixFi.PS3Manager.AttachDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM_Tool_Base_By_iixFi.PS3Manager.ConnectDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM_Tool_Base_By_iixFi.PS3Manager.LogDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM Tool Base By iixFi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\PS3Manager.AttachDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\PS3Manager.ConnectDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\PS3Manager.LogDialog.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\Properties.Resources.resources
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\bin\Debug\RTM Tool Base By iixFi.exe
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\bin\Debug\RTM Tool Base By iixFi.pdb
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM Tool Base By iixFi.exe
+C:\Users\ASUS\Documents\By_SSSTCCC\RTM Tool Base By iixFi\obj\Debug\RTM Tool Base By iixFi.pdb
